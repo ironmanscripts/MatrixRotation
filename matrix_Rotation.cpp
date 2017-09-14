@@ -60,7 +60,7 @@ int main()
 	};
 	
 	printf("Printing matrix >>>\n");
-    display_Matrix(matrix); 
+        display_Matrix(matrix); 
 	rotate_Matrix(matrix);
 	printf("Printing matrix in Anti-clockwise>>>\n");
 	display_Matrix(matrix);
