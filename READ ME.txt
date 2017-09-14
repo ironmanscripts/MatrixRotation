@@ -1,0 +1,47 @@
+
+# Problem Statement:-  
+# Given an Image Represented by an N*N matrix. Write a Method to Rotate the image 
+# by 90 degress. Can you do this in place ?
+
+
+# Questions needed before solving the problem.
+
+>>>>>>> Do I need to rotate matrix Clock Wise or Anti Clock Wise ? 
+>>>>>>> Do I need to rotoate in place ? 
+>>>>>>> Verifying its square matrix ?
+>>>>>>>	90 degree Rotation of Matrix ?
+
+# My Own Assumptions 
+
+>>>>>>>> Matrix is image taken as 4 bytes  
+>>>>>>>> Rotating Matrix Anti-Clockwise 
+>>>>>>>> Given Matrix is a Square Matrix 
+
+One Approach to Implement:
+
+>>>>> I solve by rotating outer most to rotating inner most layers.
+>>>>> I am doing Four way swap using arrays
+>>>>> Copying Top array of the matrix to right array of Matrix 
+>>>>> Right Array to bottom array 
+>>>>> Bottom array to left array
+>>>>> Left Array to Top of Array of Matrix 
+>>>>> Then I move into inner most and repeat the above steps.
+
+
+Programming Languages ,IDE.
+
+>>>>>> C++ 
+>>>>>> Notepad++
+
+Compiling the code
+
+"Please use the online URL to compile the code."
+
+>>>>>> https://www.onlinegdb.com/online_c++_compiler
+
+
+
+
+
+
+
