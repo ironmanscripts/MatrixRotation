@@ -1,2 +1,0 @@
-# MatrixRotation
-ZenDesk Coding Challenge 
