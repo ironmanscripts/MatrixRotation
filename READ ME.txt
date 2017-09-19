@@ -4,7 +4,7 @@
 # by 90 degress. Can you do this in place ?
 
 
-# Questions needed before solving the problem.
+# Questions needed to ask before solving the problem.
 
 >>>>>>> Do I need to rotate matrix Clock Wise or Anti Clock Wise ? 
 >>>>>>> Do I need to rotoate in place ? 
@@ -39,7 +39,7 @@ Compiling the code
 
 >>>>>> https://www.onlinegdb.com/online_c++_compiler
 
-If you have any comments readring code. I will be happy to hear and learn.
+If you have any comments regarding code. I will be happy to hear and learn.
 
 I tried to not to include comments.
 "Every one can write code computers can understand but writing code humans can understand is the real programmer."
